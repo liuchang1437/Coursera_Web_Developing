@@ -1,0 +1,27 @@
+/*  Navbar */
+.navbar{
+	background-color: #8BC34A;
+}
+
+/*  End Navbar */
+
+/*  Main Content */
+.content{
+	height: 1000px;
+	background-color: #607D8B;
+}
+.container-fluid{
+	margin: 0 5%;
+}
+
+/*  End Main Content */
+
+/*   Media Query */
+@media (max-width: 767px){
+	#my-navbar-collapse{
+	background-color: #CDDC39;
+	}
+}
+
+
+/* End Media Query */
